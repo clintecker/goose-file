@@ -1,0 +1,2 @@
+// The C this package builds (docs/packages.md, Making a package).
+c_sources = ["src/file.c"];
